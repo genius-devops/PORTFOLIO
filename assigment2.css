@@ -1,0 +1,53 @@
+html{
+    box-sizing: border-box;
+    font-size: 100%;
+}
+*,
+*::before,::after{
+    box-sizing: inherit;
+}
+body{
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 1rem;
+    padding: 1rem;
+    
+}
+a{
+    text-decoration: none;
+    /* padding: 1rem; */
+}
+div{
+    background-color: aliceblue;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.first{
+    background-color: white;
+    border-radius: 1rem;
+}
+.second{
+    background-color: rgba(0, 0, 0, 0.137);
+    border-radius: 1rem;
+}
+.third{
+    background-color: blue;
+    color: white;
+    border-radius: 1rem;
+}
+.fourth{
+    background-color: rgb(3, 3, 31);
+    color: white;
+    border-radius: 1rem;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    border-radius: 1rem;
+    
+}
+/* .one{ */
+    width: 50%;
+    margin: 0 auto;
+}

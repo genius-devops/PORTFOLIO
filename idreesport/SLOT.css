@@ -1,0 +1,93 @@
+/* h1, h3{
+    padding: 0;
+    margin: 0;
+} */
+h1, p{
+    text-align: center;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
+    /* gap: 2rem; */
+    
+    width: 50%;
+    margin: 1rem auto;
+    
+    /* align-items: center; */
+    
+    
+    
+}
+.child{ 
+    /* text-align: center; */
+    flex-basis: 28%;
+    background-color: gray;
+    border-radius: 1rem;
+    text-align: center;
+    /* padding: 1rem; */
+    margin: 18px; 
+    position: relative;
+    
+
+}
+/* .green{
+    background-color: green;
+    color: aliceblue;
+    width: 15%;
+    margin: auto;
+    border-radius: 1rem;
+    position: absolute;
+    top: -7px;
+    left: 55px;
+} */
+/* .purple{
+    background-color: purple;
+    color: aliceblue;
+    width: 18%;
+    margin: auto;
+    border-radius: 1rem;
+    position: absolute;
+    top: -7px;
+    left: 240px;
+}
+.orange{
+    background-color: orangered;
+    color: aliceblue;
+    width: 15%;
+    margin: auto;
+    border-radius: 1rem;
+    position: absolute;
+    top: -7px;
+    right: 55px;
+}
+.pink{
+    background-color: palevioletred;
+    color: aliceblue;
+    width: 16%;
+    margin: auto;
+    border-radius: 3rem;
+    position: absolute;
+    bottom: 8rem;
+    left: 55px;
+}
+.blue{
+    background-color: rgb(0, 89, 255);
+    color: aliceblue;
+    width: 15%;
+    margin: auto;
+    border-radius: 1rem;
+    position: absolute;
+    bottom: 8rem;
+    left: 250px;
+}
+.orengered{
+    background-color: rgb(255, 102, 0);
+    color: aliceblue;
+    width: 50%;
+    margin: auto;
+    border-radius: 1rem;
+    position: relative;
+    bottom: 2.5rem;
+    right: 5px;
+}  */
